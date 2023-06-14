@@ -4,37 +4,6 @@
 
 Авторы проекта: Сабиров Сардор и Тихонова Алена
 
-## Структура репозитория ##
-
-### 1. [Парсинг](https://github.com/sardor014/project_andan_2023/blob/main/scraper.ipynb) ###
-
-> In: [api_key.txt](https://github.com/sardor014/project_andan_2023/blob/main/api_key.txt)
-
-> In: [country_codes.txt](https://github.com/sardor014/project_andan_2023/blob/main/country_codes.txt) 
-
-> Out: [dataset.csv](https://github.com/sardor014/project_andan_2023/blob/main/dataset.csv)
-
-
-### 2. [EDA](https://github.com/sardor014/project_andan_2023/blob/main/EDA.ipynb) ###
-
-> In: [dataset.csv](https://github.com/sardor014/project_andan_2023/blob/main/dataset.csv)
-
-> Out: [dataset_after_EDA.csv](https://github.com/sardor014/project_andan_2023/blob/main/dataset_after_EDA.csv)
-
-1. Предварительныя обработка
-2. Визуализация
-3. Создание новых признаков
-
-### 3. [Гипотезы](https://github.com/sardor014/project_andan_2023/blob/main/hypothesis.ipynb) ###
-
-> In: [dataset_after_EDA.csv](https://github.com/sardor014/project_andan_2023/blob/main/dataset_after_EDA.csv)
-
-
-### 4. [Машинное обучение](https://github.com/sardor014/project_andan_2023/blob/main/ML.ipynb)
-
-> In: [dataset_after_EDA.csv](https://github.com/sardor014/project_andan_2023/blob/main/dataset_after_EDA.csv)
-
-
 ## Этап 1 - Выбор темы и сбор данных
 
 Парсер взят из открытого репозитория GitHub. После этого мы добавили несколько дополнительных функций и комментариев.
